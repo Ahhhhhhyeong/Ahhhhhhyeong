@@ -88,6 +88,10 @@
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahhhhhhyeong&hide_border=true&layout=compact" align="center" /></div>  
 
+<div align="right">
+<a href="https://opgc.me/#/users/Ahhhhhhyeong" target="_blank"><img src="https://api.opgc.me/githubs/users/Ahhhhhhyeong/tag/?theme=basic" /></a>
+</div>
+
 <br/>  
 
   
@@ -100,9 +104,7 @@
   
 
 <br/>  
-<div align="center">
-<a href="https://opgc.me/#/users/Ahhhhhhyeong" target="_blank"><img src="https://api.opgc.me/githubs/users/Ahhhhhhyeong/tag/?theme=basic" /></a>
-</div>
+
 <br />
 
 ----
