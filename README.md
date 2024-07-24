@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Ahyeong, a Frontend developer 👨‍💻 working remotely since 2021 🚀</div>  
+## <div align="center">I'm Ahyeong👨‍💻 since 2021 🚀</div>  
   
 
 - 🔭 Most work is uploaded to [Github](https://github.com/Ahhhhhhyeong?tab=repositories)  
