@@ -6,13 +6,13 @@
 ### <div align="center">I'm Ahyeong, a Frontend developer 👨‍💻 working remotely since 2021 🚀</div>  
   
 
-- 🔭 주로 작업한 것은 [Github](https://github.com/Ahhhhhhyeong?tab=repositories)에 업로드 됩니다.  
-  
+- 🔭 Most work is uploaded to [Github](https://github.com/Ahhhhhhyeong?tab=repositories)  
 
-- 🌱 Spring과 React.js를 공부하고 있습니다.  
-  
+- ~~🌱 I'm studying Spring and React.js~~  
 
-- ⚡ 포트폴리오는 [노션](https://www.notion.so/ad2d834b0b474514bb40662fa2ebbc4d)으로 정리해두었습니다!  
+- 🌱 I'm going to launch Digital Youth mid-term volunteer group in Rwanda.
+
+- ⚡ My portfolio is [HERE](https://www.notion.so/ad2d834b0b474514bb40662fa2ebbc4d)!  
   
 
 <br/>  
@@ -80,14 +80,14 @@
   
 
 <br/>  
-
+<!--
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Ahhhhhhyeong&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
-
+-->
   
 
 <br/>  
