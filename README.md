@@ -8,10 +8,10 @@ Building clean, scalable, and user-focused web experiences.
 
 ## 🚀 About Me
 
-- 📍 **GIS 관련 기업 풀스택 개발 경험** (2023.03 ~ 2024.05)  
-- 🌏 **KOICA 디지털 청년중기봉사단 1기 (르완다)** (2024.08 ~ 2024.12)  
-- 💻 **구름 DEEP DIVE 프론트엔드 4기** (2025.05 ~ 2025.11)  
-- 현재는 **React / Next.js 기반 프론트엔드 개발자**를 목표로 학습과 프로젝트를 진행 중입니다.
+- 📍 **Full-Stack Developer @ GIS Technology Firm** (2023.03 ~ 2024.05)  
+- 🌏 **ICT Volunteer @ KOICA Digital Youth Corps (Rwanda)** (2024.08 ~ 2024.12)  
+- 💻 **Frontend Web Development Bootcamp | Goorm DEEP DIVE** (2025.05 ~ 2025.11)  
+- Currently focusing on React & Next.js to build scalable and high-performance web applications.
 
 ---
 
@@ -48,16 +48,16 @@ Building clean, scalable, and user-focused web experiences.
 ---
 
 ## 📌 What I Care About
-- 클린 코드 & 일관된 아키텍처  
-- UI/UX 사용자 경험 개선  
-- 컴포넌트 설계 및 재사용성  
-- 직관적이고 유지보수 가능한 코드  
-- 팀 단위 협업 & Pull Request 기반 개발  
-
+- Clean Code & Consistent Architecture
+- Enhancing UI/UX & User Experience
+- Component-Driven Design & Resuability
+- Intuitive & Maintainable Codebase 
+- Team Collaboration & PR-based Development
+  
 ---
 
 ## 📫 Contact
-- **Email**: dkdud081@gmail.com
+- **Email**: ahyeong.kwon11@gmail.com
 - **GitHub**: https://github.com/Ahhhhhhyeong  
 
 ---
